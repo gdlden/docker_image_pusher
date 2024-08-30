@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 docker.elastic.co/logstash/logstash:8.8.1
+elasticsearch:7.12.1
+kibana:7.12.1
